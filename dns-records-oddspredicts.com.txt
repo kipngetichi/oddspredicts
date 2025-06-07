@@ -1,0 +1,4 @@
+; DNS Records for oddspredicts.com
+; Add these records to your DNS provider's configuration
+_vercel    IN    TXT    vc-domain-verify=oddspredicts.com,6968fd26b6b57fd1d819
+_vercel    IN    TXT    vc-domain-verify=www.oddspredicts.com,5274cede846348783224
