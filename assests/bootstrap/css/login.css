@@ -1,0 +1,35 @@
+/* Add additional stylesheets below
+-------------------------------------------------- */
+/*
+  Bootstrap's documentation styles
+  Special styles for presenting Bootstrap's documentation and examples
+*/
+
+
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
+/* Body and structure
+-------------------------------------------------- */
+body {
+  /* This section calls the slideInFromLeft animation we defined above */
+  animation: 1s ease-out 0s 1 slideInFromLeft !important;
+  background-color: #F7FBFE !important;
+}
+
+.img-fluid{
+	width: 200px;
+	height: auto;
+}
+
+
+
+
+
+

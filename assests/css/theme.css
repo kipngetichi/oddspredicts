@@ -1,0 +1,184 @@
+
+.inner{
+	background-image: url(../img/grid-18px-masked.png) !important;
+	  background-repeat: repeat-x !important;
+	  background-position: 20 40px !important;
+	  background-color: #E3F0FD !important;
+	
+}
+.user-media{
+	  background-color: #E3F0FD !important;
+	
+}
+.row {
+    margin-top:0 !important;
+    margin-bottom:0 !important;
+}
+.panel .panel-body{
+    margin-top:0 !important;
+    margin-bottom:0 !important;
+}
+.wrapper{
+    margin-top:0 !important;
+    margin-bottom:0 !important;
+}
+body, input, textarea {
+	font-family: 'Zilla Slab', serif;
+}
+h2, h3{
+	font-family: 'Lobster', cursive;
+}
+.btn-selected{
+	font-family: 'Lobster', cursive;
+	font-size: 120%;
+	animation: blinker 1s linear infinite;
+}
+/*@keyframes blinker {
+  20% {
+    opacity: 0;
+  }
+}*/
+/* Set the size of the div element that contains the map */
+#map {
+	height: 300px;  /* The height is 300 pixels */
+	width: 100%;  /* The width is the width of the web page */
+}
+
+.visible-link{
+	color: #205075 !important;
+	font-size: 120%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+  margin:0px;
+  padding:0px;
+}
+
+.circular-sb1 {
+  width: 80%;
+  border: 5px solid #00bfb6;
+  padding: 20px 50px;
+  margin: 15px auto;
+  border-radius: 50%;
+  text-align: right;
+  font-size: 15px;
+  font-weight: 900;
+  font-family: arial;
+  position: relative;
+  color: #00bfb6;
+  background: #fff;
+}
+
+
+/*right circle shape speech bubble*/
+
+.circle1 {
+  border: 5px solid #00bfb6;
+  position: absolute;
+  width: 25px;
+  padding: 15px;
+  border-radius: 50%;
+  right: -15px;
+  bottom: 23px;
+}
+
+.circle1:before {
+  content: "";
+  position: absolute;
+  width: 25px;
+  padding: 15px;
+  border-radius: 50%;
+  right: 0px;
+  bottom: 0px;
+  background: #fff;
+}
+
+.circle2 {
+  border: 5px solid #00bfb6;
+  position: absolute;
+  width: 5px;
+  padding: 10px 15px;
+  border-radius: 50%;
+  right: -60px;
+  bottom: 5px;
+  background: #fff;
+}
+
+
+/*left circle shape speech bubble*/
+
+.circular-sb2 {
+  width: 80%;
+  border: 5px solid #232D58;
+  padding: 20px 50px;
+  margin: 15px auto;
+  border-radius: 50%;
+  text-align: left;
+  font-size: 15px;
+  font-weight: 900;
+  font-family: arial;
+  position: relative;
+  color: #232D58;
+  background: #fff;
+}
+
+.circle3 {
+  border: 5px solid #232D58;
+  position: absolute;
+  width: 25px;
+  padding: 15px;
+  border-radius: 50%;
+  left: -10px;
+  bottom: 10px;
+}
+
+.circle3:before {
+  content: "";
+  position: absolute;
+  width: 25px;
+  padding: 15px;
+  border-radius: 50%;
+  right: 0px;
+  bottom: 0px;
+  background: #fff;
+}
+
+.circle4 {
+  border: 5px solid #232D58;
+  position: absolute;
+  width: 5px;
+  padding: 10px 15px;
+  border-radius: 50%;
+  left: -60px;
+  bottom: 5px;
+  background: #fff;
+}
+
+
+.circular-textarea {
+  width: 80%;
+  border: 5px solid #232D58;
+  padding: 20px 0px;
+  margin: 15px ;
+  text-align: left;
+  font-size: 15px;
+  font-weight: 900;
+  font-family: arial;
+  position: relative;
+  color: #232D58;
+  background: #fff;
+}

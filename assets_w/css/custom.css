@@ -1,0 +1,45 @@
+/** Your theme modifications here **/
+.navbar-brand{
+	margin-top: -5px;
+}
+body {
+    background-image: url("images/paper.jpg");
+    background-repeat: repeat;
+	 background-attachment: fixed;
+	font-size: 1.9em ; 
+font-family: 'Neuton', serif;
+}
+
+h1,h2{  
+	font-size: 1.5em ; 
+	font-family: 'Special Elite', cursive;
+}
+.nav{
+	font-family: 'Special Elite', cursive;
+}
+/*.media-heading{
+	font-family: 'Berkshire Swash', cursive;
+}*/
+
+
+.color11{
+	background-color: #4993E4;
+}
+.color22{
+	background-color: #DD8BC1;
+}
+.color33{
+	background-color: #6EB752;
+}
+.color44{
+	background-color: #C5C5C5;
+}
+.color55{
+	background-color: #A14994;
+}
+.color66{
+	background-color: #4FBFA8;
+}
+.theme-form{
+	color: white;
+}

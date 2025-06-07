@@ -1,0 +1,1129 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <!-- *** HEAD ***-->
+
+		
+<head>
+
+    <meta charset="utf-8">
+    <meta name="robots" content="all,follow">
+    <meta name="googlebot" content="index,follow,snippet,archive">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="keywords"  content="Tips sure,  win Everyday with our tips, Premier league, jackpot Tips, matchday, Free tips, predictions, Tips, Analysed, Daily Odds, League, Football Tips, Sports, Athletics, Livescores, epl, league 1, Laliga, Predictions Free Premium Tips + JP Tips,betting tips,betway,betin,betting company,jackpot,
+barclays premier legue,kenya,east africa,kra,how to win jackpot,epl,premier league,matchday,kpl,sport,sports,bet,betting,bets,online,on-line,SMS,
+mpesa,pesa,sportpesa ,mobile money,sportbet, sportbetting,sportsbetting,Nairobi,Kenya,Africa,East Africa,Odds,football,soccer,wager,predict,win,winner,
+prediction,jackpot,millions,game,wallet,cash,credit card,shilling,east africa,foota,goal,derby,socca,mondial,
+predictions,bet,jackpot,tips,gofutaa,Casino,poker,slots,roulette, 	SportPesa, sportpesa tips, sportpesa jackpot, sportpesa jackpot predictions, 
+sportpesa jackpot predictions this week, sportpesa games, sportpesa today games, 
+livescores football, soccer predictions, soccerway, windrawin, best betting tips websites,
+ how to join sportpesa, sportpesa sure tips, best sportpesa predictions website,
+ SCRETS , TOPSTAR , B-CHONJO , JOYTEX , Analyzetips , TUFIXBIZ , SMASH_DRAW , Jackpotips , HERIPLEX , EQUILIZERS , ALTOIDTECH , GOLD_PROFIT , 
+ OKOATIPS , INKABETS , LITEPAL , UNIKS , BUZZ-TIPS , STORM_TIPS , MOJO_TIPS , Notify_MSG , DAILY_ODDS , AlphaTips , INKABETS , ATOM-E , WINNERS_HUB,
+ MEGA-ODDS,EXACT,PREMIUMWAVE,BAMBA_ODDS,TIDE,WIN_LET,FREEBOX,GRANDSCORE,CHEERPLEX,ACUMULATORS,HERIPLEX,WINDAILY,MWANASOKA,SUNPEL,ScoreBright,
+ DAILY_ODDS,CHAMPIONS,40249,WIN,CHAMPIONS,EDDRIX,WINNINGATE,NANOTIPS,HONEST_TIPS,SPORT_P,ForeTips,Asterix,
+ Experts254,MEGAWINS,LITEPAL,WINSOLUTION,SMASH_DRAW,SISIMKA,
+ Wintastic,BEST_B,JOBCITY,BET_SAWA,LEAGUE-PRO,40238,FIZZ_MOBILE,ONTIPZ,JAM-ENT,Trendy_Tips,Grand_tips,
+ TIPS HIVE,FOREBET,PRIMEWINNER,SOFASCORE,SHINDATIPS,SureBet,40766,SUREPREDICT,EUROPA_TECH,goflytips,
+ TIPS HIVE,OFFSIDE,GAKOJI,TIDE,TOPSTAR,40766,TipsHub,AlphaTips,Wyzer,CORNERODD,CHAMPIONS,PRIMIERODDS,
+ FREEBOX,Derio,MEGA-ODDS,CashTips,NITROUS,DAILY_ODDS,analysed,40238,DUMUKENYA,TOPTIPSHIVE,TIPGUN,STARFIX,
+ PRIDEFORD,SCORE,FIZZ-MOBILE,SPOTEK-PRO,WIN ">
+    <title>oddspredicts : 100% sure tips </title>
+
+    <meta name="keywords" content="">
+	<link href="https://fonts.googleapis.com/css?family=Neuton:300|Special+Elite" rel="stylesheet">
+	
+    <!-- styles -->
+	<link rel="stylesheet" href="assets_w/plugins/Font-Awesome/css/font-awesome.css" />
+    <link href="assets_w/css/font-awesome.css" rel="stylesheet">
+    <link href="assets_w/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets_w/css/animate.min.css" rel="stylesheet">
+    <link href="assets_w/css/owl.carousel.css" rel="stylesheet">
+    <link href="assets_w/css/owl.theme.css" rel="stylesheet">
+
+    <!-- theme stylesheet -->
+	<link rel="stylesheet" type="text/css" title="blue" href="assets_w/css/style.blue.css" id="theme-stylesheet">
+	<link rel="alternate stylesheet" type="text/css" title="pink" href="assets_w/css/style.pink.css" id="theme-stylesheet">
+	<link rel="alternate stylesheet" type="text/css" title="green" href="assets_w/css/style.green.css" id="theme-stylesheet">
+	<link rel="alternate stylesheet" type="text/css" title="mono" href="assets_w/css/style.mono.css" id="theme-stylesheet">
+	<link rel="alternate stylesheet" type="text/css" title="violet" href="assets_w/css/style.violet.css" id="theme-stylesheet">
+	<link rel="alternate stylesheet" type="text/css" title="turquoise" href="assets_w/css/style.turquoise.css" id="theme-stylesheet">
+    
+    <!-- your stylesheet with modifications -->
+    <link href="assets_w/css/custom.css" rel="stylesheet">
+
+    <script src="assets_w/js/respond.min.js"></script>
+
+    <link rel="shortcut icon" href="assets_w/favicon.png">
+<script type="text/javascript">
+// *** TO BE CUSTOMISED ***
+
+var style_cookie_name = "style" ;
+var style_cookie_duration = 300 ;
+var style_domain = "skylinknetworks.co.ke" ;
+
+// *** END OF CUSTOMISABLE SECTION ***
+// You do not need to customise anything below this line
+
+function switch_style ( css_title )
+{
+// You may use this script on your site free of charge provided
+// you do not remove this notice or the URL below. Script from
+// https://www.thesitewizard.com/javascripts/change-style-sheets.shtml
+  var i, link_tag ;
+  for (i = 0, link_tag = document.getElementsByTagName("link") ;
+    i < link_tag.length ; i++ ) {
+    if ((link_tag[i].rel.indexOf( "stylesheet" ) != -1) &&
+      link_tag[i].title) {
+      link_tag[i].disabled = true ;
+      if (link_tag[i].title == css_title) {
+        link_tag[i].disabled = false ;
+      }
+    }
+    set_cookie( style_cookie_name, css_title,
+      style_cookie_duration, style_domain );
+  }
+}
+function set_style_from_cookie()
+{
+  var css_title = get_cookie( style_cookie_name );
+  if (css_title.length) {
+    switch_style( css_title );
+  }
+}
+function set_cookie ( cookie_name, cookie_value,
+    lifespan_in_days, valid_domain )
+{
+    // https://www.thesitewizard.com/javascripts/cookies.shtml
+    var domain_string = valid_domain ?
+                       ("; domain=" + valid_domain) : '' ;
+    document.cookie = cookie_name +
+                       "=" + encodeURIComponent( cookie_value ) +
+                       "; max-age=" + 60 * 60 *
+                       24 * lifespan_in_days +
+                       "; path=/" + domain_string ;
+}
+function get_cookie ( cookie_name )
+{
+    // https://www.thesitewizard.com/javascripts/cookies.shtml
+    var cookie_string = document.cookie ;
+    if (cookie_string.length != 0) {
+        var cookie_value = cookie_string.match (
+                        '(^|;)[\s]*' +
+                        cookie_name +
+                        '=([^;]*)' );
+        return decodeURIComponent ( cookie_value[2] ) ;
+    }
+    return '' ;
+}
+        alert(cookie_value);
+</script>
+
+<style>
+
+#rcorners1 {
+  border-radius: 25px;
+  margin:auto;
+margin-top:30px;
+width:1500px;
+max-width:100%;  
+overflow-x: scroll;  
+height:500px;
+background: #73AD21;
+}
+
+#rcorners2 {
+ border-radius: 25px;
+  margin:auto;
+margin-top:30px;
+width:1500px;
+max-width:100%;  
+overflow-x: scroll;  
+height:500px;
+  border: 1px solid #21adab;
+  
+}
+
+#rcorners3 {
+  border-radius: 25px;
+   margin:auto;
+margin-top:30px;
+width:1500px;
+max-width:100%;  
+overflow-x: scroll;  
+height:500px;
+  background: url(https://us.123rf.com/450wm/claudiodivizia/claudiodivizia1810/claudiodivizia181000362/110749398-brown-paper-cardboard-useful-as-a-background-soft-pastel-colour.jpg?ver=6);
+   
+}
+
+
+
+#rcorners20 {
+
+  margin:auto;
+width:1500px;
+max-width:100%;  
+overflow-x: scroll;  
+height:500px;
+  border: 2px solid #73AD21;
+  
+}
+#rcorners21 {
+  border-radius: 25px;
+   margin:auto;
+margin-top:30px;
+width:1500px;
+max-width:100%;  
+overflow-x: scroll;  
+height:500px;
+  background: url(https://media.istockphoto.com/vectors/sky-blue-aqua-blue-colored-scratched-effect-bright-wall-texture-vector-id1073661970?k=6&m=1073661970&s=612x612&w=0&h=JX_6DhEqY6VcmGr8tp0kokmdjyPPxhNVsH_0pkw8ExU=)
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+</style>
+
+</head>
+		
+    <!-- *** HEAD END *** -->
+
+<body onload="set_style_from_cookie()">
+   
+	<!-- *** TOPBAR ***-->
+ 
+		
+    <!-- *** TOPBAR ***
+ _________________________________________________________ -->
+    <div id="top">
+        <div class="container">
+            <div class="col-md-6 offer" data-animate="fadeInDown">
+                <a href="oddspredicts@info.com" class="btn btn-success btn-sm" data-animate-hover="shake">oddspredicts@info.com </a>&nbsp; &nbsp; <a href="tel:+254713804279" class="btn btn-success btn-sm">Contact: +254713804279</a>
+            </div>
+            
+        </div>
+                </div>
+                
+                
+                
+		        <div class="modal fade" id="login-modal" tabindex="-1" role="dialog" aria-labelledby="Login" aria-hidden="true">
+
+						<!-- Modal1 -->
+							<div class="modal-dialog">
+							<!-- Modal content-->
+								<div class="modal-content">
+									
+
+						<div style="background-color: #589D3A" >
+
+<h2 id="Basic Members" style="text-align: center;font-size: large;background-color:#2F4F4F;color:white;padding:20px;"><blink><strong>Our Daily<span>Odds from All Betting Sites</span></strong></blink></h2>
+<h4 style="color:yellow;text-align:center">Join our Daily Tips Membership>></h4>
+<ol style="color:white;">
+	<li>On your Safaricom phone go to the M-PESA menu </li>
+	
+	<li>Select Lipa Na M-PESA</li>
+	
+	<li>Select Buy Goods and Services</li>
+	
+	<li>Enter <strong style="color:#9d03fc;font-size: 1.275em"> Till Number 5471299</strong>.</li>
+	
+	<li>Enter Amount<strong style="color:#9d03fc;font-size: 1.275em"> ksh225</strong> for Daily Tips</li>
+	
+	<li>Enter your M-PESA PIN.</li>
+	
+	<li>'click' Send and wait to receive SMS from oddspredicts</li>
+	
+	<li>You will automatically Receive our Daily Tips via SMS</li>
+	
+	</ol>
+
+
+</div>
+										<div class="modal-footer">
+                                         <button class="btn btn-danger" data-dismiss="modal" aria-hidden="true">Close</button>
+
+                                            </div>
+										 
+									</div>
+								</div>
+							</div>
+					
+						<div class="modal fade" id="475-modal" tabindex="-1" role="dialog">
+						<!-- Modal1 -->
+							<div class="modal-dialog">
+							<!-- Modal content-->
+								<div class="modal-content">
+
+
+											<div style="background-color: #589D3A" >
+
+<h2 id="Basic Members" style="text-align: center;font-size: large;background-color:#2F4F4F;color:white;padding:20px;"><blink><strong>Fixed Matches, Correct Scores, of<b> Over 55+ odds</b> With Guranteed Win</strong></blink></h2>
+<h4 style="color:yellow; text-align:center">Join our Fixed Odds Correct Score Membership>></h4>
+<ol style="color:white;">
+	<li>On your Safaricom phone go to the M-PESA menu </li>
+	
+	<li>Select Lipa Na M-PESA</li>
+	
+	<li>Select Buy Goods and Services</li>
+	
+	<li>Enter <strong style="color:#9d03fc;font-size: 1.275em">Till Number 5471299</strong>.</li>
+	
+	<li>Enter Amount<strong style="color:#9d03fc;font-size: 1.275em"> ksh 750</strong> for Fixed Tips And CS</li>
+	
+	<li>Enter your M-PESA PIN.</li>
+
+	<li>'click' Send and wait to receive SMS from our System Autoresponse</li>
+	
+	<li>Incase Of system Delay TEXT/CALL 0713804279</li>
+	
+	</ol>
+
+
+</div>
+										<div class="modal-footer">
+                                         <button class="btn btn-danger" data-dismiss="modal" aria-hidden="true">Close</button>
+
+                                            </div>
+										 
+									</div>
+								</div>
+							</div>
+							<div class="modal fade" id="HTFT-modal" tabindex="-1" role="dialog">
+						<!-- Modal1 -->
+							<div class="modal-dialog">
+							<!-- Modal content-->
+								<div class="modal-content">
+
+									
+											<div style="background-color: #589D3A" >
+
+<h2 id="Basic Members" style="text-align: center;font-size: large;background-color:#2F4F4F;color:white;padding:20px;"><blink><strong>HTFT Matches, With<b> Over 40+ odds</b> Sure Win</strong></blink></h2>
+<h4 style="color:yellow;">Join our Fixed Odds Membership>></h4>
+<ol style="color:white;">
+	<li>On your Safaricom phone go to the M-PESA menu </li>
+	
+	<li>Select Lipa Na M-PESA</li>
+	
+	<li>Select Buy Goods and Services</li>
+	
+	<li>Enter <strong style="color:#9d03fc;font-size: 1.275em">Till Number 5471299</strong>.</li>
+	
+	<li>Enter Amount<strong style="color:#9d03fc;font-size: 1.275em"> @ksh 525</strong> for Fixed Tips HTFT</li>
+	
+	<li>Enter your M-PESA PIN.</li>
+
+	<li>'click' Send and wait to receive SMS from our System Autoresponse</li>
+	
+	<li>Incase Of system Delay TEXT/CALL 0713804279</li>
+	
+	</ol>
+
+
+</div>
+										<div class="modal-footer">
+                                         <button class="btn btn-danger" data-dismiss="modal" aria-hidden="true">Close</button>
+
+                                            </div>
+										 
+									</div>
+								</div>
+							</div>
+							<div class="modal fade" id="JP-modal" tabindex="-1" role="dialog">
+						<!-- Modal1 -->
+							<div class="modal-dialog">
+							<!-- Modal content-->
+								<div class="modal-content">
+	
+									<div style="background-color: #589D3A" >
+
+<h2 id="Basic Members" style="text-align: center;font-size: large;background-color:#2F4F4F;color:white;padding:20px;"><blink>SportPesa MIDWEEK JP Tips AVAIL. EXPIRES ON 25/07 19:00<div class="blink_me"> <u style="color:yellow">Guranteed Bonus</u></div></blink></h2>
+<h4 style="color:yellow;">Join our MIDWEEK Jackpt Analysed Tips>></h4>
+<ol style="color:white;">
+	<li>On your Safaricom phone go to the M-PESA menu </li>
+
+	<li>Select Lipa Na M-PESA</li>
+	
+	<li>Select Buy Goods and Services</li>
+	
+	<li>Enter  <strong style="color:#9d03fc;font-size: 1.275em">Till Number 5471299</strong>.</li>
+	
+	<li>Enter Amount<strong style="color:#9d03fc;font-size: 1.275em">@Ksh 500</strong> for Jackpot</li>
+	
+	<li>Enter your M-PESA PIN.</li>
+	
+	<li>'click' Send and wait to receive SMS from our System Autoresponse</li>
+	
+	<li>Incase Of system Delay TEXT/CALL 0713804279</li>
+	</ol>
+
+
+</div>
+										<div class="modal-footer">
+                                         <button  class="btn btn-danger" data-dismiss="modal" aria-hidden="true">Close</button>
+
+                                            </div>
+										 
+									</div>
+								</div>
+							</div>
+
+						<div class="modal fade" id="Golden-modal" tabindex="-1" role="dialog">
+						<!-- Modal1 -->
+							<div class="modal-dialog">
+							<!-- Modal content-->
+								<div class="modal-content">
+									<div class="modal-header">
+										
+										
+										<img src="assets_w/img/MPSACO.png" alt=" " class="img-responsive">
+																<div style="background-color: #589D3A" >
+
+<h2 id="Basic Members" style="text-align: center;font-size: large;background-color:#2F4F4F;color:white;padding:20px;"><blink><strong>Golden Tips 120+</strong></blink></h2>
+<h4 style="color:yellow;">Join GOLDEN TIPS, The 3 Winnig Games that will be send, Like in Our PRDICTION HISTORY >></h4>
+<ol style="color:white;">
+	<li>On your Safaricom phone go to the M-PESA menu </li>
+	
+	<li>Select Lipa Na M-PESA</li>
+	
+	<li>Select Buy Goods and Services</li>
+	
+	<li>Enter <strong style="color:#9d03fc;font-size: 1.275em">Till Number 5471299</strong>.</li>
+	
+	<li>Enter Amount<strong style="color:#9d03fc;font-size: 1.275em">@ksh 1250</strong> two days Tips</li>
+	
+	<li>Enter your M-PESA PIN.</li>
+	
+	<li>'click' Send and wait to receive SMS from our System Autoresponse</li>
+	
+	<li>Incase Of system Delay TEXT/CALL 0713804279</li>
+	
+	</ol>
+
+
+</div>
+										<div class="modal-footer">
+                                         <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+
+                                            </div>
+										 
+									</div>
+								</div>
+							</div>
+						</div>
+
+
+		        <div class="modal fade" id="theme-modal" tabindex="-1" role="dialog" aria-labelledby="Login" aria-hidden="true">
+            <div class="modal-dialog modal-sm">
+
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="Login">Preferred Theme</h4>
+                    </div>
+                    <div class="modal-body">
+                        <form class="theme-form">
+							<div class="form-group col-xs-4">
+								<input type="submit" class="btn btn-sm btn-block color11" onclick="switch_style('blue');return false;" name="theme" value="Blue" id="blue">
+							</div>
+							<div class="form-group col-xs-4">
+								<input type="submit" class="btn btn-sm btn-block color22" onclick="switch_style('pink');return false;" name="theme" value="Pink" id="pink">
+							</div>
+							<div class="form-group col-xs-4">
+								<input type="submit" class="btn btn-sm btn-block color33" onclick="switch_style('green');return false;" name="theme" value="Green" id="green">
+							</div>
+							<div class="form-group col-xs-4">
+								<input type="submit" class="btn btn-sm btn-block color44" onclick="switch_style('mono');return false;" name="theme" value="Mono" id="mono">
+							</div>
+							<div class="form-group col-xs-4">
+								<input type="submit" class="btn btn-sm btn-block color55" onclick="switch_style('violet');return false;" name="theme" value="Violet" id="violet">
+							</div>
+							<div class="form-group col-xs-4">
+								<input type="submit" class="btn btn-sm btn-block color66" onclick="switch_style('turquoise');return false;" name="theme" value="Turquoise" id="turquoise">
+							</div>
+							<button class="btn btn-primary" data-dismiss="modal" ><i class="fa fa-thumbs-up"></i> </button>
+                        </form>
+					</div>
+                </div>
+            </div>
+        </div>
+
+
+    <!-- *** TOP BAR END *** -->		
+    <!-- *** TOP BAR END *** -->
+		    <!-- *** NAVBAR *** -->
+
+
+
+
+
+    <div id="all">
+
+        <div id="content">
+
+			
+            <div style="background-color:#708090">
+				<div style="text-align:center">	<h3 class="title-w3-agileits title-white-wthree"><strong style="color:white">Today Fixed GOLDEN TIPS that Guarantees You 100% Win PAY Before Ksh1250 and ksh750 after win in the Fxed tips!</strong></h3>
+				<div style="text-align:center">	<h4 class="title-w3-agileits title-black-wthree"><span style="color:#DFFF00"> Tips Before 11:00AM, 17:00 and beyond!</span></h4>
+				<div style="text-align:center">	<h4 class="title-w3-agileits title-black-wthree"><span style="color:#DFFF00"> CONGRATULATIONS! Yesterday WON <strong style="color:#0f0be3">Ksh 13,541 </strong>on Golden Tips   &nbsp;&nbsp;&nbsp;&nbsp; ✔✔< <u>TODAY TIPS READY!!</u></span></h4>
+
+<h1 style="text-align: center;background-color:#2F4F4F;color:white;padding:30px;">Free Tip For Today</h1>
+<h3 style="text-align: center; color:#DFFF00;"><script>document.write(new Date().toDateString());</script> TIME: 19:00</h3>
+<h2 style="text-align: center; color:#f7e32a;"><strong>Eibar v Barakaldo</strong> </h2>
+<h2 style="text-align: center; color:#f7e32a;">Tip  <strong style="color: #DFFF00">1</strong> </h2>
+
+</div>
+</div>
+</div>
+    </div>
+<br>
+<br>
+            <!-- *** ADVANTAGES HOMEPAGE ***
+ _________________________________________________________ -->
+            <div id="advantages">
+                <div class="container">
+                    <div class="same-height-row">
+                        <div class="col-sm-4">
+                            <div class="box same-height"><strong style="color:red">BASIC Tips Ksh 225/day</strong>
+							</div>
+
+                                <h3 style="color:red">100% Sure @Ksh225</h3>
+                                				                       
+						<div class="item">
+                            <div class="product">
+                                <div class="flip-container">
+                                    <div class="flipper">
+                                        <div class="front">
+                                            
+                                                <img src="assets_w/img/225front.jpg" alt="" class="img-responsive">
+                                            
+                                        </div>
+                                        <div class="back">
+                                            
+                                                <img src="assets_w/img/225back.JPG" alt="" class="img-responsive">
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                                <a  href="" class="invisible">
+                                    <img src="assets_w/img/225back.JPG" alt="" class="img-responsive">
+                                </a>
+                                <div class="text">
+
+                                   <button  class="btn btn-danger"><a href="#" style="color:white" class="menu__link" data-toggle="modal" data-target="#login-modal"><strong> Subscribe Ksh 225.00 Here</strong> 👈👈</a></button>
+                                </div>
+                                <!-- /.text -->
+
+                                <div class="ribbon sale">
+                                    <div class="theribbon">Daily</div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+
+                                <div class="ribbon new">
+                                    <div class="theribbon">Sure</div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+
+                                <div class="ribbon gift">
+                                    <div class="theribbon"><b style="color:red">12+</b>Odds</div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+						
+
+                            </div>
+                        </div>
+                    <div class="same-height-row">
+                        <div class="col-sm-4">
+                            <div class="box same-height"><strong style="color:red"> 2 FIXED GAMES (CS)</strong>
+							</div>
+	
+                                <h3 style="color:red">@Ksh750/Two days </h3>
+                                
+						<div class="item">
+                            <div class="product">
+                                <div class="flip-container">
+                                    <div class="flipper">
+                                        <div class="front">
+                                            <a  href="#">
+                                                <img src="assets_w/img/750CSfront.jpg" alt="" class="img-responsive">
+                                            </a>
+                                        </div>
+                                        <div class="back">
+                                            <a  href="#">
+                                                <img src="assets_w/img/750CSback.JPG" alt="" class="img-responsive">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a  href="#" class="invisible">
+                                    <img src="assets_w/img/750CSback.JPG" alt="" class="img-responsive">
+                                </a>
+                                <div class="text">
+
+                                   <button  class="btn btn-danger"><a href="#" style="color:white" class="menu__link" data-toggle="modal" data-target="#475-modal"><strong> Subscribe Ksh 750.00 Here</strong> 👈👈</a></button>
+                                </div>
+                                <!-- /.text -->
+
+                                <div class="ribbon sale">
+                                    <div class="theribbon">FIXED</div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+
+                                <div class="ribbon new">
+                                    <div class="theribbon">C.Score</div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+
+                                <div class="ribbon gift">
+                                    <div class="theribbon"><strong style="color:red">55+Odds</strong></div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+						
+
+                            </div>
+                    </div>
+                   <div class="same-height-row">
+                        <div class="col-sm-4">
+                            <div class="box same-height"> <strong style="color:red"> HTFT With 40+ odds</strong>
+                                    </div> 
+
+                                <h3 style="color:red">Tips @Ksh525</h3>
+                                
+						<div class="item">
+                            <div class="product">
+                                <div class="flip-container">
+                                    <div class="flipper">
+                                        <div class="front">
+                                            
+                                                <img src="assets_w/img/525frontHTFT.jpg" alt="" class="img-responsive">
+
+                                        </div>
+                                        <div class="back">
+                                            <a  href="#">
+                                                <img src="assets_w/img/525backHTFT.jpg" alt="" class="img-responsive">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a  href="#" class="invisible">
+                                    <img src="assets_w/img/525backHTFT.jpg" alt="" class="img-responsive">
+                                </a>
+                                <div class="text">
+
+                                   <button  class="btn btn-danger"><a href="#" style="color:white" class="menu__link" data-toggle="modal" data-target="#HTFT-modal"><strong> Subscribe Ksh 525.00 Here</strong> 👌🏻👈</a></button>
+                                </div>
+                                <!-- /.text -->
+
+                                <div class="ribbon sale">
+                                    <div class="theribbon">SURE</div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+
+                                <div class="ribbon new">
+                                    <div class="theribbon">HTFT</div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+
+                                <div class="ribbon gift">
+                                    <div class="theribbon"><strong style="color:red">40+odds</strong></div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+						
+
+                            </div>
+                            </div>
+                    
+                    <!-- /.row -->
+                   <div class="same-height-row">
+                        <div class="col-sm-4">
+                            <div class="box same-height"> <strong style="color:red"> SportPesa Jackpot Tips</strong>
+                                    </div> 
+
+                                <h3 style="color:red">Guaranteed @ksh500</h3>
+                                
+						<div class="item">
+                            <div class="product">
+                                <div class="flip-container">
+                                    <div class="flipper">
+                                        <div class="front">
+                                            
+                                                <img src="assets_w/img/sportpesajpFRON.png" alt="" class="img-responsive">
+
+                                        </div>
+                                        <div class="back">
+                                            <a  href="#">
+                                                <img src="assets_w/img/sportpesaJpbac.jpg" alt="" class="img-responsive">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a  href="#" class="invisible">
+                                    <img src="assets_w/img/sportpesaJpbac.jpg" alt="" class="img-responsive">
+                                </a>
+                                <div class="text">
+
+                                   <button  class="btn btn-danger"><a href="#" style="color:white" class="menu__link" data-toggle="modal" data-target="#JP-modal"><strong>MJP @Ksh500 EXP Thurs.25/07 19:00👈</strong></a></button>
+                                </div>
+                                <!-- /.text -->
+
+                                <div class="ribbon sale">
+                                    <div class="theribbon">JP/MJP</div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+
+                                <div class="ribbon new">
+                                    <div class="theribbon">Bonus</div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+
+                                <div class="ribbon gift">
+                                    <div class="theribbon"><strong style="color:red">Get Bonus</strong></div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+						
+
+                            </div>
+                            </div>
+                    
+									<div class="same-height-row">
+					<div class="col-sm-4">
+                            <div class="box same-height"> <strong style="color:red"> Like In Our Prediction History</strong>
+                                    </div> 
+                                <h3 style="color:red"> @Ksh1250 /137 odds</h3>
+                                
+						<div class="item">
+                            <div class="product">
+                                <div class="flip-container">
+                                    <div class="flipper">
+                                        <div class="front">
+                                            
+                                                <img src="assets_w/img/8500.JPG" alt="" class="img-responsive">
+
+                                        </div>
+                                        <div class="back">
+                                            <a  href="#">
+                                                <img src="assets_w/img/850.jpg" alt="" class="img-responsive">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a  href="#" class="invisible">
+                                    <img src="assets_w/img/850.jpg" alt="" class="img-responsive">
+                                </a>
+                                <div class="text">
+
+                                   <button  class="btn btn-danger"><a href="#" style="color:white" class="menu__link" data-toggle="modal" data-target="#Golden-modal"><strong> Subscribe Ksh1250 Here</strong> 👌🏻👊</a></button>
+                                </div>
+                                <!-- /.text -->
+
+                                <div class="ribbon sale">
+                                    <div class="theribbon">Fixed</div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+
+                                <div class="ribbon new">
+                                    <div class="theribbon">For</div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+
+                                <div class="ribbon gift">
+                                    <div class="theribbon"><strong style="color:red">120+odds</strong></div>
+                                    <div class="ribbon-background"></div>
+                                </div>
+                                <!-- /.ribbon -->
+                            </div>
+                            <!-- /.product -->
+                        </div>
+						
+
+                            </div>
+                        
+                             </div>
+						</div>
+					</div>
+				</div>
+            
+                <!-- /.container -->
+
+
+            <!-- /#advantages -->
+
+            <!-- *** ADVANTAGES END *** -->
+
+            <!-- *** HOT PRODUCT SLIDESHOW ***
+ _________________________________________________________ -->
+            <div id="hot">
+
+                <div class="box">
+                    <div class="container">
+                        <div class="col-md-12">
+                            <h2>OUR PREDICTION HISTORY</h2>
+                        </div>
+                    </div>
+                </div>
+
+                
+                                       <div style="text-align:center" id="rcorners21">
+ <h4 class="btn btn-danger active btn-lg wow fadeInUp" data-wow-delay="0.0s" ><i class="lnr lnr-exit"></i> <strong>Golden Fixed Tips</strong></h4>
+                      <h2 style="text-align:center;color:#38353b">23/07/2024 </h2>
+           <table bgcolor="#035CBA" border="1" cellpadding="" style="height: 150px; width: 100%;">
+		          <tbody>
+			<tr>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Country</b></td>
+			<td  style="background-color:#2F4F4F;text-align: center;color:white;"><b>Team</b></td>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Tip</b></td>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Status</b></td>
+			
+		</tr>
+	
+		<tr>  
+
+
+			<td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/england.gif" width="20" /></span><strong>Friendlies</strong></td>
+			<td><strong>Macclesfield	-	Rochdale</strong></td>
+			<td><strong>&nbsp; &nbsp;CS(2:2)</strong></td>
+			<td style="text-align: center;"><strong><span style="color:blue;">Won</span></strong></td>
+		</tr>
+				<tr>
+
+		    <td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/scotland.gif" /></span><strong>Scotland</strong></td>
+			<td><strong>Cove Rangers	-	Livingston FC</strong></td>
+			<td><strong>&nbsp; &nbsp;HTFT 2/2</strong></td>
+		    <td style="text-align: center;"><strong><span style="color:green;">Won</span></strong></td>
+		</tr>
+		<tr>
+
+		    <td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/international.gif"/></span><strong>EUEFA Q.</strong></td>
+			<td><strong>FC Lugano	-	Fenerbahçe SK</strong></td>
+			<td><strong>&nbsp; &nbsp;GG</strong></td>
+		    <td style="text-align: center;"><strong><span style="color:green;">Won</span></strong></td>
+		</tr>
+
+
+		</tbody>
+		</table>
+                   </div>   
+                                       <div style="text-align:center" id="rcorners21">
+ <h4 class="btn btn-danger active btn-lg wow fadeInUp" data-wow-delay="0.0s" ><i class="lnr lnr-exit"></i> <strong>Golden Fixed Tips</strong></h4>
+                      <h2 style="text-align:center;color:#38353b">22/07/2024 </h2>
+
+
+
+<table bgcolor="#035CBA" border="1" cellpadding="" style="height: 150px; width: 100%;">
+		<tbody>
+			<tr>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Country</b></td>
+			<td  style="background-color:#2F4F4F;text-align: center;color:white;"><b>Team</b></td>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Tip</b></td>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Status</b></td>
+			
+		</tr>
+
+		<tr>  
+
+
+			<td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/norway.gif" width="20" /></span><strong>Norway</strong></td>
+			<td><strong>Surnadal IL	-	Rosenborg 2</strong></td>
+			<td><strong>&nbsp; &nbsp;OV2.5</strong></td>
+			<td style="text-align: center;"><strong><span style="color:blue;">Won</span></strong></td>
+		</tr>
+				<tr>
+
+		    <td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/denmark.gif" /></span><strong>Denmark</strong></td>
+			<td><strong>Lyngby BK	-	FC Kobenhagen</strong></td>
+			<td><strong>&nbsp; &nbsp;CS(0:2)</strong></td>
+		    <td style="text-align: center;"><strong><span style="color:blue;">Won</span></strong></td>
+		</tr>
+		<tr>
+
+
+		    <td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/egypt.gif" /></span><strong>Egypt</strong></td>
+			<td><strong>Modern Future FC	-	Semouha Club</strong></td>
+			<td><strong>&nbsp; &nbsp;HTFT 1/1</strong></td>
+		    <td style="text-align: center;"><strong><span style="color:blue;">won</span></strong></td>
+		</tr>
+
+
+		</tbody>
+		</table>
+   </div>
+  
+                                     <div style="text-align:center" id="rcorners21">
+                    <h4 class="btn btn-danger active btn-lg wow fadeInUp" data-wow-delay="0.0s" ><i class="lnr lnr-exit"></i> <strong>Golden Fixed Tips</strong></h4>
+                      <h2 style="text-align: center;color:#38353b">21/07/2024 </h2>
+
+
+
+<table bgcolor="#035CBA" border="1" cellpadding="" style="height: 150px; width: 100%;">
+		<tbody>
+			<tr>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Country</b></td>
+			<td  style="background-color:#2F4F4F;text-align: center;color:white;"><b>Team</b></td>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Tip</b></td>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Status</b></td>
+			
+		</tr>
+
+		<tr>  
+
+
+			<td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/norway.gif" width="20" /></span><strong>Norway</strong></td>
+			<td><strong>Honefoss BK	-	Skjervoy IK</strong></td>
+			<td><strong>&nbsp; &nbsp;HTFT 1/1</strong></td>
+			<td style="text-align: center;"><strong><span style="color:blue;">Won</span></strong></td>
+		</tr>
+				<tr>
+
+
+
+		    <td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/sweden.gif" /></span><strong>Sweden</strong></td>
+			<td><strong>IF Elfsborg	-	Mjallby AIF</strong></td>
+			<td><strong>&nbsp; &nbsp;CS(3:1)</strong></td>
+		    <td style="text-align: center;"><strong><span style="color:blue;">Won</span></strong></td>
+		</tr>
+		<tr>
+
+		    <td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/denmark.gif" /></span><strong>Denmark</strong></td>
+			<td><strong>AC Horsens	-	FC Fredericia</strong></td>
+			<td><strong>&nbsp; &nbsp;OV 2.5</strong></td>
+		    <td style="text-align: center;"><strong><span style="color:blue;">won</span></strong></td>
+		</tr>
+
+
+		</tbody>
+		</table>
+                     </div>  
+                     
+                     
+                                          <div style="text-align:center" id="rcorners21">
+                     <h4 class="btn btn-danger active btn-lg wow fadeInUp" data-wow-delay="0.0s" ><i class="lnr lnr-exit"></i> <strong>Golden Fixed Tips</strong></h4>
+                      <h2 style="text-align: center;color:#38353b">20/07/2024 </h2>
+
+
+
+<table bgcolor="#035CBA" border="1" cellpadding="" style="height: 150px; width: 100%;">
+		<tbody>
+			<tr>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Country</b></td>
+			<td  style="background-color:#2F4F4F;text-align: center;color:white;"><b>Team</b></td>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Tip</b></td>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Status</b></td>
+			
+		</tr>
+
+		<tr>  
+
+
+			<td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/sweden.gif" width="20" /></span><strong>Sweden</strong></td>
+			<td><strong>Osters IF	-	GIF Sundsvall</strong></td>
+			<td><strong>&nbsp; &nbsp;1</strong></td>
+			<td style="text-align: center;"><strong><span style="color:blue;">Won</span></strong></td>
+		</tr>
+				<tr>
+
+		    <td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/scotland.gif" /></span><strong>Scotland</strong></td>
+			<td><strong>Clyde FC	-	Motherwell FC</strong></td>
+			<td><strong>&nbsp; &nbsp;HTFT 2/2</strong></td>
+		    <td style="text-align: center;"><strong><span style="color:blue;">Won</span></strong></td>
+		</tr>
+		<tr>
+
+		    <td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/norway.gif" /></span><strong>NORWAY</strong></td>
+			<td><strong>Esbjerg fB	-	Odense BK</strong></td>
+			<td><strong>&nbsp; &nbsp;CS(1:2)</strong></td>
+		    <td style="text-align: center;"><strong><span style="color:blue;">won</span></strong></td>
+		</tr>
+
+
+		</tbody>
+		</table>
+		</div>
+  
+                                                  
+
+                                        <div style="text-align:center" id="rcorners21">
+                    <h4 class="btn btn-danger active btn-lg wow fadeInUp" data-wow-delay="0.0s" ><i class="lnr lnr-exit"></i> <strong>Golden Fixed Tips</strong></h4>
+                      <h2 style="text-align: center; color:#38353b">19/07/2024 </h2>
+
+
+
+<table bgcolor="#035CBA" border="1" cellpadding="" style="height: 150px; width: 100%;">
+		<tbody>
+			<tr>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Country</b></td>
+			<td  style="background-color:#2F4F4F;text-align: center;color:white;"><b>Team</b></td>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Tip</b></td>
+			<td style="background-color:#2F4F4F;text-align: center;color:white;"><b>Status</b></td>
+			
+		</tr>
+
+		<tr>  
+
+			<td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/denmark.gif" width="20" /></span><strong>Denmark</strong></td>
+			<td><strong>AGF Aarhus	-	FC Midtjylland</strong></td>
+			<td><strong>&nbsp; &nbsp;CS (1:1)</strong></td>
+			<td style="text-align: center;"><strong><span style="color:blue;">Won</span></strong></td>
+		</tr>
+				<tr>
+
+		    <td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/france.gif" /></span><strong>Friendlies</strong></td>
+			<td><strong>US Orleans	-	AJ Auxerre</strong></td>
+			<td><strong>&nbsp; &nbsp;GG</strong></td>
+		    <td style="text-align: center;"><strong><span style="color:blue;">Won</span></strong></td>
+		</tr>
+		<tr>
+
+
+		    <td><span style="color: #333333;"><img alt="Flag" height="20" src="assets_w/flags/czech.gif" /></span><strong>Czech</strong></td>
+			<td><strong>Sparta Praha	-	FK Pardubice</strong></td>
+			<td><strong>&nbsp; &nbsp;HTFT X/1</strong></td>
+		    <td style="text-align: center;"><strong><span style="color:blue;">Won</span></strong></td>
+		</tr>
+
+
+		</tbody>
+		</table>
+</div>
+ 
+
+
+
+
+
+
+
+<div style="background-color:#E25042" >
+
+
+<h4 style="color:#f4f2fc;font-size: 1.275em;text-align:center">For International Subscribers</h4>
+<h4 style ="color:#f4f2fc;text-align:center" > <span style="color:#d8d5e3;font-size: 1.275em">Pay 22usd</span> Via PayPal account: leonkip222@gmail.com </h4>
+<h4 style="text-align:center"><span class="contact-agile1"> <a href="https://api.whatsapp.com/send?phone=254739162763" style="display: inline-block; padding:16px; border-radius: 8px; background-color: #25D366; color: #fff; text-decoration: none; font-family: sans-serif; font-size: 16px;">Clic Here to Join WhatsApp</a></span></h4>
+
+<h2 id="International Subscribers" style="text-align: center;font-size: large;background-color:#2F4F4F;color:white;padding:20px;"><blink><strong>3 DAYS Golden FIXED subscription</strong></blink></h2>
+<h4 style="color:yellow;text-align:center">How To Join GOLDEN FIXED Platinum 3 DAYS Membership MORE 120odds @ksh2000</h4>
+<ol style="color:white;text-align:center">
+	<li>On your Safaricom phone go to the M-PESA menu </li>
+	<li>Select Lipa Na M-PESA</li>
+	<li>Select Buy Goods and Services</li>
+	<img src="assets_w/img/mpesasmall.png" alt=""/>
+	<li>Enter Till Number <strong>5471299</strong>.</li>
+	<li>Enter Amount<strong style="color:#2319d4"> KSH2000</strong> for Platinum Membership</li>
+	<li>Enter your M-PESA PIN.</li>
+	<li>Send and wait for SMS receipt from TipsCentral</li>
+	<li>You will automatically Receive Platinums Tips via whatsApp</li>
+	<li><span class="contact-agile1"> <a href="https://api.whatsapp.com/send?phone=254739162763" style="display: inline-block; padding:16px; border-radius: 8px; background-color: #25D366; color: #fff; text-decoration: none; font-family: sans-serif; font-size: 16px;">Clic Here to Join WhatsApp</a></span>
+</li>
+	</ol>
+
+</div>
+
+            <!--/pricing-area-->
+        <!--/container-->
+
+    <section id="bottom">
+        <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
+            <div class="row">
+                <div class="col-md-3 col-sm-6">
+                    <div class="widget">
+                        
+                    </div>    
+                </div><!--/.col-md-3-->
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="widget">
+                       
+                    </div>    
+                </div><!--/.col-md-3-->
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="widget">
+                        
+                    </div>    
+                </div><!--/.col-md-3-->
+
+                <div class="col-md-3 col-sm-6">
+                    <div class="widget">
+                      
+                    </div>    
+                </div><!--/.col-md-3-->
+            </div>
+        </div>
+        
+    </section><!--/#bottom-->
+
+
+	
+    
+
+
+
+        <!-- *** COPYRIGHT ***-->
+		
+		
+        <div id="copyright">
+            <div class="container">
+                <div class="col-md-6">
+
+                <h3 class="text-center" style="margin-top: 20px;font-size: 14px;font-family: Montserrat, sans-serif;">codesoft Technologies Copyright&nbsp; <i class="fa fa-copyright"></i>&nbsp; All Rights Reserved.</h3>
+
+                </div>
+
+            </div>
+        </div>
+                
+		<!-- *** COPYRIGHT END *** -->
+
+
+    </div>
+
+        </div>
+    <!-- /#all -->
+
+
+    
+
+    <!-- *** SCRIPTS TO INCLUDE ***
+ _________________________________________________________ -->
+    <script src="assets_w/js/jquery-1.11.0.min.js"></script>
+    <script src="assets_w/js/bootstrap.min.js"></script>
+    <script src="assets_w/js/jquery.cookie.js"></script>
+    <script src="assets_w/js/waypoints.min.js"></script>
+    <script src="assets_w/js/modernizr.js"></script>
+    <script src="assets_w/js/bootstrap-hover-dropdown.js"></script>
+    <script src="assets_w/js/owl.carousel.min.js"></script>
+    <script src="assets_w/js/front.js"></script>
+
+
+</body>
+
+</html>
