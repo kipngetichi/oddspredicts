@@ -528,7 +528,68 @@ height:350px;
                                 </a>
                                 <div class="text">
 
-                                   <button  class="btn btn-danger"><a href="#" style="color:white" class="menu__link" data-toggle="modal" data-target="#login-modal"><strong> Subscribe Ksh 225.00 Here</strong> 👈👈</a></button>
+                                   <button  class="btn btn-success" data-toggle="modal" data-target="#mpesaModal"><strong>Subscribe for Ksh 225.00</strong> <i class="fa fa-mobile"></i></button>
+<!-- M-PESA Modal -->
+<div class="modal fade" id="mpesaModal" tabindex="-1" role="dialog" aria-labelledby="mpesaModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="mpesaModalLabel">Subscribe via M-PESA</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="mpesaForm">
+                    <div class="form-group">
+                        <label for="phone">Enter your Safaricom number:</label>
+                        <input type="text" class="form-control" id="phone" name="phone" placeholder="e.g. 07XXXXXXXX" required maxlength="12">
+                    </div>
+                    <div id="mpesaStatus" style="margin-top:10px;"></div>
+                    <button type="submit" class="btn btn-success btn-block" id="mpesaPayBtn">Pay Ksh 225.00</button>
+                </form>
+                <div id="mpesaLoading" style="display:none;text-align:center;margin-top:10px;">
+                    <i class="fa fa-spinner fa-spin fa-2x"></i>
+                    <p>Processing payment, please check your phone...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+document.getElementById('mpesaForm').onsubmit = function(e) {
+    e.preventDefault();
+    var phone = document.getElementById('phone').value.trim();
+    if (!/^07\d{8}$/.test(phone)) {
+        document.getElementById('mpesaStatus').innerHTML = '<span style="color:red">Please enter a valid Safaricom number (e.g. 07XXXXXXXX).</span>';
+        return;
+    }
+    document.getElementById('mpesaPayBtn').disabled = true;
+    document.getElementById('mpesaStatus').innerHTML = '';
+    document.getElementById('mpesaLoading').style.display = 'block';
+    // AJAX request to PHP backend
+    var xhr = new XMLHttpRequest();
+    xhr.open('POST', 'mpesa_stkpush.php', true);
+    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState === 4) {
+            document.getElementById('mpesaLoading').style.display = 'none';
+            document.getElementById('mpesaPayBtn').disabled = false;
+            try {
+                var res = JSON.parse(xhr.responseText);
+                if (res.success) {
+                    document.getElementById('mpesaStatus').innerHTML = '<span style="color:green">'+res.message+'</span>';
+                } else {
+                    document.getElementById('mpesaStatus').innerHTML = '<span style="color:red">'+res.message+'</span>';
+                }
+            } catch (e) {
+                document.getElementById('mpesaStatus').innerHTML = '<span style="color:red">Payment failed. Please try again.</span>';
+            }
+        }
+    };
+    xhr.send('phone='+encodeURIComponent(phone));
+};
+</script>
                                 </div>
                                 <!-- /.text -->
 
