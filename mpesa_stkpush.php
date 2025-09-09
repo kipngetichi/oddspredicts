@@ -6,10 +6,10 @@ $consumerSecret = 'YOUR_CONSUMER_SECRET';
 $shortCode = '541299';
 $passkey = 'YOUR_PASSKEY';
 $callbackUrl = 'https://YOUR_DOMAIN/payment_callback.php';
-$dbHost = 'localhost';
-$dbUser = 'YOUR_DB_USER';
-$dbPass = 'YOUR_DB_PASSWORD';
-$dbName = 'YOUR_DB_NAME';
+
+// Supabase config (for future use, e.g. logging STK requests)
+$supabaseUrl = 'https://qjymkjcfuzawkykkxzuu.supabase.co'; // Replace with your Supabase project URL
+$supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFqeW1ramNmdXphd2t5a2t4enV1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA2MDgwODMsImV4cCI6MjA2NjE4NDA4M30.zW56UdCNAMwJ702p5sRupPDcJ5JWISFjNfENXAlBmAo'; // Replace with your Supabase service role key
 
 header('Content-Type: application/json');
 if ($_SERVER['REQUEST_METHOD'] !== 'POST' || !isset($_POST['phone'])) {

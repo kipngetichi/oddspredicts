@@ -1,8 +1,8 @@
 
 <?php
 // Admin page to view paid subscribers from Supabase
-$supabaseUrl = 'https://YOUR_SUPABASE_PROJECT.supabase.co'; // Replace with your Supabase project URL
-$supabaseKey = 'YOUR_SUPABASE_SERVICE_ROLE_KEY'; // Replace with your Supabase service role key
+$supabaseUrl = 'https://qjymkjcfuzawkykkxzuu.supabase.co'; // Replace with your Supabase project URL
+$supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFqeW1ramNmdXphd2t5a2t4enV1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA2MDgwODMsImV4cCI6MjA2NjE4NDA4M30.zW56UdCNAMwJ702p5sRupPDcJ5JWISFjNfENXAlBmAo'; // Replace with your Supabase service role key
 $ch = curl_init($supabaseUrl . '/rest/v1/subscribers?select=phone,mpesa_code,amount,paid_at&order=paid_at.desc');
 curl_setopt($ch, CURLOPT_HTTPHEADER, [
     'apikey: ' . $supabaseKey,
