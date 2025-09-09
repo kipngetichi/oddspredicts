@@ -1,13 +1,13 @@
 <?php
 // M-PESA STK Push for till 541299
 // Update credentials below
-$consumerKey = 'YOUR_CONSUMER_KEY';
-$consumerSecret = 'YOUR_CONSUMER_SECRET';
+$consumerKey = 'uUGbmAFn5kahPgOA5BAN0bQx7iG0q7bH';
+$consumerSecret = 'gifR0eqGJiHNtFuT';
 $shortCode = '541299';
 $passkey = 'YOUR_PASSKEY';
-$callbackUrl = 'https://YOUR_DOMAIN/payment_callback.php';
+$callbackUrl = 'https://oddspredicts.com/payment_callback.php';
 
-// Supabase config (for future use, e.g. logging STK requests)
+// Supabase config (for future use, e.g.logging STK requests)
 $supabaseUrl = 'https://qjymkjcfuzawkykkxzuu.supabase.co'; // Replace with your Supabase project URL
 $supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFqeW1ramNmdXphd2t5a2t4enV1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA2MDgwODMsImV4cCI6MjA2NjE4NDA4M30.zW56UdCNAMwJ702p5sRupPDcJ5JWISFjNfENXAlBmAo'; // Replace with your Supabase service role key
 
