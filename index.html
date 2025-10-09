@@ -1313,13 +1313,17 @@ document.getElementById('mpesaForm').onsubmit = function(e) {
 		<li><u>leonkip222@gmail.com</u></li>
 		<li><strong style="color:#fafafa">Skrill Account:</strong></li>
 		<li><u>leonkip222@gmail.com</u></li>
-        <h1>Choosing an Apple</h1>
+        <h1>UGANDA SUBSRIBERS</h1>
 <section>
-  <h2>Introduction</h2>
-  <p>
-    This document provides a guide to help with the important task of choosing
-    the correct Apple.
-  </p>
+  <h1>HOW TO PAY VIA MTN Uganda</h1>
+<ol type="1" style="color:white;text-align:center">
+  <li>Dial: *170# on your MTN Uganda mobile phone.</li>
+  <li><strong>Select:</strong> the option for "Transfer Money" or a similar option</li>
+  <li>Choose: the option to send to "Other Network"</li>
+  <li>Select: the network (Safaricom M-PESA).</li>
+  <li><strong>Copy and Paste This Number</strong>:<textarea id="textToCopy">254713804279</textarea> <button onclick="copyText()">Copy Number</button> </li>
+  <li>Third item</li>
+</ol>
 </section>
 		<li><strong style="color:#fafafa"> UGANDA  Subscribers:</strong></li>
 		<li>For TANZANIA subscribers, Pay to our <u>AIRTEL No: +254739162763</u>: <span style="color:#0b03fc;font-size: 1.275em"> TZSH 25,500 </span></li>
@@ -1431,6 +1435,23 @@ document.getElementById('mpesaForm').onsubmit = function(e) {
   }, blinkSpeed);
 </script>
     
+
+ <script>
+        async function copyText() {
+            const textElement = document.getElementById('textToCopy');
+            try {
+                await navigator.clipboard.writeText(textElement.value);
+                const statusMessage = document.getElementById('copyStatus');
+                statusMessage.style.display = 'block'; // Show the message
+                setTimeout(() => {
+                    statusMessage.style.display = 'none'; // Hide after a delay
+                }, 2000); // Hide after 2 seconds
+            } catch (err) {
+                console.error('Failed to copy text: ', err);
+                alert('Failed to copy text. Please try again or copy manually.');
+            }
+        }
+    </script>
 
     <!-- *** SCRIPTS TO INCLUDE ***
  _________________________________________________________ -->
