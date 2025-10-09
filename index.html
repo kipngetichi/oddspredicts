@@ -1321,7 +1321,8 @@ document.getElementById('mpesaForm').onsubmit = function(e) {
   <li><strong>Select:</strong> the option for "Transfer Money" or a similar option</li>
   <li>Choose: the option to send to "Other Network"</li>
   <li>Select: the network (Safaricom M-PESA).</li>
-  <li><strong>Copy and Paste This Number</strong>:<span id="textToCopy">254713804279</span> <button onclick="copyText()">Copy Number</button> </li>
+  <li><strong>Copy and Paste This Number</strong>:<input type="text" id="myInput" value="This is some text to copy.">
+<button onclick="copyText()">Copy Text</button> </li>
   <li>Third item</li>
 </ol>
 </section>
@@ -1437,21 +1438,17 @@ document.getElementById('mpesaForm').onsubmit = function(e) {
     
 
  <script>
-        async function copyText() {
-            const textElement = document.getElementById('textToCopy');
-            try {
-                await navigator.clipboard.writeText(textElement.value);
-                const statusMessage = document.getElementById('copyStatus');
-                statusMessage.style.display = 'block'; // Show the message
-                setTimeout(() => {
-                    statusMessage.style.display = 'none'; // Hide after a delay
-                }, 2000); // Hide after 2 seconds
-            } catch (err) {
-                console.error('Failed to copy text: ', err);
-                alert('Failed to copy text. Please try again or copy manually.');
-            }
-        }
-    </script>
+async function copyText() {
+  const copyText = document.getElementById("myInput").value;
+  try {
+    await navigator.clipboard.writeText(copyText);
+    alert("Text copied to clipboard!");
+  } catch (err) {
+    console.error('Failed to copy text: ', err);
+    alert("Failed to copy text.");
+  }
+}
+</script>
 
     <!-- *** SCRIPTS TO INCLUDE ***
  _________________________________________________________ -->
